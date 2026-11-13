@@ -4,7 +4,7 @@
 - 🏫 信息安全本科生 @ 重庆城市科技学院
 - 💻 专注于**安全运营 (SecOps)** 与 **Web 安全**
 - 🛡️ 熟悉 OWASP Top 10、Burp Suite、Python 安全工具开发及 Docker 部署
-- 🎯 意向岗位：安全运营工程师 / 安服工程师
+- 🎯 意向岗位：安全运营工程师/信息安全工程师
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
